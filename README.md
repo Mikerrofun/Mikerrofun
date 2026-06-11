@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/@Mikerrofan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mikerrofan)
 [![Email](https://img.shields.io/badge/mitja3375@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitja3375@gmail.com)
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/WAsD-Ddos)
-<img width="200" height="64" alt="image" src="https://github.com/user-attachments/assets/daaff412-5987-4208-a3a8-13bb7d795522" />
+<img width="150" height="40" alt="image" src="https://github.com/user-attachments/assets/daaff412-5987-4208-a3a8-13bb7d795522" />
 
 
 </div>
@@ -29,7 +29,7 @@
 ### 🏢 Commercial Experience
 
 - 💼 Worked on a client project as a freelance frontend developer
-  > 📄 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/e6fc4c26-74fb-4a49-9508-48310e20a232" />
+  > 📄 <img width="3800" height="650" alt="image" src="https://github.com/user-attachments/assets/e6fc4c26-74fb-4a49-9508-48310e20a232" />
 
   
 
