@@ -29,7 +29,7 @@
 ### 🏢 Commercial Experience
 
 - 💼 Worked on a client project as a freelance frontend developer
-  > 📄 <img width="3800" height="650" alt="image" src="https://github.com/user-attachments/assets/e6fc4c26-74fb-4a49-9508-48310e20a232" />
+  > 📄 <img width="380" height="650" alt="image" src="https://github.com/user-attachments/assets/e6fc4c26-74fb-4a49-9508-48310e20a232" />
 
   
 
