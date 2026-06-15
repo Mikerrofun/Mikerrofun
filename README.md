@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/@Mikerrofan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mikerrofan)
 [![Email](https://img.shields.io/badge/mitja3375@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitja3375@gmail.com)
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/WAsD-Ddos)
-<img width="120" height="40" alt="image" src="https://github.com/user-attachments/assets/e50533c4-b759-4b47-b534-9e95631d850e" />
+<img width="130" height="40" alt="image" src="https://github.com/user-attachments/assets/e50533c4-b759-4b47-b534-9e95631d850e" />
 
 
 </div>
