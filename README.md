@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/@Mikerrofan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mikerrofan)
 [![Email](https://img.shields.io/badge/mitja3375@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitja3375@gmail.com)
-https://www.codewars.com/users/Mikerrofun/badges/micro
+[![Codewars](https://www.codewars.com/users/Mikerrofun/badges/micro)](https://www.codewars.com/users/Mikerrofun/badges/micro)
 </div>
 
 ---
