@@ -6,10 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/@Mikerrofan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mikerrofan)
 [![Email](https://img.shields.io/badge/mitja3375@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitja3375@gmail.com)
-[![CodeWars]([https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/WAsD-Ddos](https://www.codewars.com/users/WAsD-Ddos/badges/micro))
-
-
-
+https://www.codewars.com/users/Mikerrofun/badges/micro
 </div>
 
 ---
